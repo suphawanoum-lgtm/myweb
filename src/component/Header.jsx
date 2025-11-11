@@ -7,8 +7,8 @@ function Header() {
         <div className="container mx-auto py-4 px-6">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold">Khing Restaurant</h1>
-              <p className="mt-2 text-sm">Recommed Thai Foods</p>
+              <h1 className="text-3xl font-bold">Zoo with Oum</h1>
+              <p className="mt-2 text-sm">All animal i like</p>
             </div>
             <nav>
               <ul className="flex space-x-6 text-lg">
